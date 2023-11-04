@@ -1,0 +1,1777 @@
+fileFormatVersion: 2
+guid: 61cd841cb1a36e643a6a776ff3d1751a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1154
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccab7c19f07684438916f3369997031
+      internalID: 436751830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1154
+        width: 77
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548e50d8c35be7942ad4887d0e95fc45
+      internalID: -127757921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1154
+        width: 77
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cd7ee3c077afd46a39afc6fc44ef5e
+      internalID: -900226414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1154
+        width: 77
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed543ccadb62c0c44bf32d3d97d4c992
+      internalID: 2049032182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_4
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1154
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3461f37c7414d04882f74ab7ce17b81
+      internalID: 2076113951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_5
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1154
+        width: 77
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f317b100629badd48a77228adce937c8
+      internalID: -2120535768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_6
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1154
+        width: 77
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9de44ae2a0db94a8538f84d394f9e7
+      internalID: 1905869551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_7
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1154
+        width: 77
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43144374218d2d4980bcb0cd15543e7
+      internalID: 2130800730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1024
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d61e1a91d24d40429e15e8b6b92616e
+      internalID: -1007964051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_9
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1024
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34694222379de0448a7ed01ffbde7b6
+      internalID: -388744330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_10
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1024
+        width: 83
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0cfa2c9cb6a014d9f4faf6b0fabfef
+      internalID: 149920424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_11
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1024
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71165c80a51348d4a87bed533c9ee7af
+      internalID: -1923248248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_12
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1024
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff29b80d8ec01f44181d0393c7ac3bd5
+      internalID: -1330608582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_13
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1024
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9581527b9133341990cad6db8963e1
+      internalID: 241147896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_14
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1024
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09dfcf0763d8f848b1d5f8a75aa3983
+      internalID: 769273270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_15
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1024
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102ac83d794481648892a4623eca0ec5
+      internalID: -1689751311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_16
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1024
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3802dcfba27fb94881569d7b52f6221
+      internalID: 1787551350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_17
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1024
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4163a1edd198da34398ef2157744da8a
+      internalID: 1323719465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_18
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1024
+        width: 87
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7916f1269f4d1b64c80f496ca467dfa8
+      internalID: -933736284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 897
+        width: 115
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3399cc3dc0d78e9438e1cd0de6f10798
+      internalID: 614953410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_20
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 896
+        width: 116
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39bfcb70a2075147864a0fdbba63fc2
+      internalID: 1461099972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_21
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 896
+        width: 103
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db882c9c2194de240b35c27405bd8526
+      internalID: -1497244317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 896
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e809af16da8caa541a58c6cc02492454
+      internalID: 807633606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_23
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 896
+        width: 93
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b874b57ac43722d4ab81435acad74cc5
+      internalID: -1783898091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_24
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 896
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c0e2145f0ab6a4fa2576e4ff03ddc0
+      internalID: 1359674362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_25
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 896
+        width: 102
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01641020eb3757e4a9725d234da90e8b
+      internalID: -485710776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_26
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 896
+        width: 104
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201892ea042956d43bda4b36ce3bb45c
+      internalID: 1991944385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_27
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 903
+        width: 110
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f9dc6ea6fcd5d4695318dfce857c53
+      internalID: -1223099891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 768
+        width: 93
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527cc608468c6fc4cbed10deae7b7f3a
+      internalID: -2070758093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_29
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 768
+        width: 90
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72427764235967342bd0f8f3a056cf16
+      internalID: -140156591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_30
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 768
+        width: 106
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8140ba7ebcd8bdc468057149197232b7
+      internalID: -737026548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_31
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 769
+        width: 114
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0337aebb8a9c6b947a8e8c4bc201bb82
+      internalID: 654109055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 769
+        width: 122
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695799f20f80b4b42a53c14c52e55b7f
+      internalID: 583943297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_33
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 770
+        width: 109
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e42cdd40565c924bb8ebe6b01db5c6a
+      internalID: 2098248533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_34
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 787
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3be4badbf4f20643ab0c3e6e6e91148
+      internalID: 2138311531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_35
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 781
+        width: 9
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73307e65d5aa8514a8171678cfb94118
+      internalID: -474531464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_36
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 768
+        width: 99
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a54935f6badf947a3099cbb2806d8f
+      internalID: 410239209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 640
+        width: 98
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96b9f45cfd0b7643813b94421621e9b
+      internalID: -975147709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_38
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 640
+        width: 97
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501d813fdda836e4292a5d429a0d8e16
+      internalID: 378175567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_39
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 640
+        width: 95
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a00f9153067a22438de8c8e724176a2
+      internalID: -16185098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_40
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 652
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7bf859bbedb3c49b5a8af2447511b9
+      internalID: 121121152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_41
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 642
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4602a1d1cc9c345b4c08ef5919211d
+      internalID: 95986461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_42
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 649
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf36cdb4dd8aac4e8e171b7a2a98c7d
+      internalID: -1940785775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_43
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 647
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51c4256d8457a74996f132668a55ba7
+      internalID: -114228907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_44
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 640
+        width: 107
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c377f86a5f81245bcd31933372839a
+      internalID: -438995134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_45
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 640
+        width: 95
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4126ef9386d9b8746ae0fc65a2fcaaf0
+      internalID: -697766856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_46
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 640
+        width: 93
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f9f8d1983cd9b47899932cc9500ed1
+      internalID: -1795254021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_47
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 640
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5387cab9aa87dae43879fb22ba0199fe
+      internalID: 674606727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_48
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 512
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2cc59d86e731848bc7d0fbbe7ae1d3
+      internalID: 1611113422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_49
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 512
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145b1cca3c5a473498f21e84f554db8b
+      internalID: 1999554284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_50
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 512
+        width: 77
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1614be424876b7a41a5bda6fcb1bbb93
+      internalID: -698272808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_51
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 512
+        width: 68
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923bed53187fd4849a5983d8ce3315d9
+      internalID: 2088215205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_52
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 512
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae06af443530aa45a56b2a33c64561b
+      internalID: 2090891280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_53
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 512
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9379ccab24ae64b48b678e7af2725df2
+      internalID: -1539649976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_54
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 384
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9c567afa2b16b4a8c6fdd20f3cfcc5
+      internalID: 2045053407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_55
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5223bb767fc26ad47939be68d629d79e
+      internalID: -239675496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_56
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 384
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2683187df80f35f458ec77d34a268e73
+      internalID: -773182784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_57
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 451
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209a8e0e46d1d6d4e8f41debd0b86a0c
+      internalID: -1771782715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_58
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 427
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10acaaeabecd4b0409fc1d686b7ecb11
+      internalID: 2095508240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_59
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 384
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7480a4223633764a81331b5d32091c5
+      internalID: 598911937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_60
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 431
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd941a1d05f772a40b589d717e256d27
+      internalID: -634554325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_61
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 403
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112e382eb5176564bb97002b737fef43
+      internalID: -1783970362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_62
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 421
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdd6fba9fa1c98469889638464e9d49
+      internalID: 633057883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_63
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 256
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60e4927149e8884cb217410d3accbd4
+      internalID: -1403645383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_64
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 256
+        width: 68
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4825d3ed114b2b4d8b1b1ce1041c2ce
+      internalID: 2090974714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_65
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 256
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13ed368a38ebd0498e306c5b726e6e3
+      internalID: 226372205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_66
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 256
+        width: 74
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe602e59c2360b5419f1929f5325cc61
+      internalID: -1060754401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_67
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 322
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd33577bec55439498281a9bce997bec
+      internalID: -1614318346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_68
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 312
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca5a35ff82b9f7409960af4f5a1f897
+      internalID: -2010025688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_69
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 256
+        width: 73
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeaadb0e216481c4fb6ba39693c1d3c1
+      internalID: -1672592902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_70
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 292
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634c84d0d6d433248954f5c71ad1f81c
+      internalID: 2096445122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_71
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 128
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9db88beadea9e4197090ef993e0ad0
+      internalID: 149689412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_72
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 128
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02eb59c9df6aa784ab38b2187f3b38b7
+      internalID: 185823952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_73
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 83
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb12a149d286d7409782031c995edb5
+      internalID: 1099865419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Werewolf_Spritelist_74
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 89
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efb1923ea0b6c140b8d4d98bfe15d1a
+      internalID: 1476005402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      White_Werewolf_Spritelist_0: 436751830
+      White_Werewolf_Spritelist_1: -127757921
+      White_Werewolf_Spritelist_10: 149920424
+      White_Werewolf_Spritelist_11: -1923248248
+      White_Werewolf_Spritelist_12: -1330608582
+      White_Werewolf_Spritelist_13: 241147896
+      White_Werewolf_Spritelist_14: 769273270
+      White_Werewolf_Spritelist_15: -1689751311
+      White_Werewolf_Spritelist_16: 1787551350
+      White_Werewolf_Spritelist_17: 1323719465
+      White_Werewolf_Spritelist_18: -933736284
+      White_Werewolf_Spritelist_19: 614953410
+      White_Werewolf_Spritelist_2: -900226414
+      White_Werewolf_Spritelist_20: 1461099972
+      White_Werewolf_Spritelist_21: -1497244317
+      White_Werewolf_Spritelist_22: 807633606
+      White_Werewolf_Spritelist_23: -1783898091
+      White_Werewolf_Spritelist_24: 1359674362
+      White_Werewolf_Spritelist_25: -485710776
+      White_Werewolf_Spritelist_26: 1991944385
+      White_Werewolf_Spritelist_27: -1223099891
+      White_Werewolf_Spritelist_28: -2070758093
+      White_Werewolf_Spritelist_29: -140156591
+      White_Werewolf_Spritelist_3: 2049032182
+      White_Werewolf_Spritelist_30: -737026548
+      White_Werewolf_Spritelist_31: 654109055
+      White_Werewolf_Spritelist_32: 583943297
+      White_Werewolf_Spritelist_33: 2098248533
+      White_Werewolf_Spritelist_34: 2138311531
+      White_Werewolf_Spritelist_35: -474531464
+      White_Werewolf_Spritelist_36: 410239209
+      White_Werewolf_Spritelist_37: -975147709
+      White_Werewolf_Spritelist_38: 378175567
+      White_Werewolf_Spritelist_39: -16185098
+      White_Werewolf_Spritelist_4: 2076113951
+      White_Werewolf_Spritelist_40: 121121152
+      White_Werewolf_Spritelist_41: 95986461
+      White_Werewolf_Spritelist_42: -1940785775
+      White_Werewolf_Spritelist_43: -114228907
+      White_Werewolf_Spritelist_44: -438995134
+      White_Werewolf_Spritelist_45: -697766856
+      White_Werewolf_Spritelist_46: -1795254021
+      White_Werewolf_Spritelist_47: 674606727
+      White_Werewolf_Spritelist_48: 1611113422
+      White_Werewolf_Spritelist_49: 1999554284
+      White_Werewolf_Spritelist_5: -2120535768
+      White_Werewolf_Spritelist_50: -698272808
+      White_Werewolf_Spritelist_51: 2088215205
+      White_Werewolf_Spritelist_52: 2090891280
+      White_Werewolf_Spritelist_53: -1539649976
+      White_Werewolf_Spritelist_54: 2045053407
+      White_Werewolf_Spritelist_55: -239675496
+      White_Werewolf_Spritelist_56: -773182784
+      White_Werewolf_Spritelist_57: -1771782715
+      White_Werewolf_Spritelist_58: 2095508240
+      White_Werewolf_Spritelist_59: 598911937
+      White_Werewolf_Spritelist_6: 1905869551
+      White_Werewolf_Spritelist_60: -634554325
+      White_Werewolf_Spritelist_61: -1783970362
+      White_Werewolf_Spritelist_62: 633057883
+      White_Werewolf_Spritelist_63: -1403645383
+      White_Werewolf_Spritelist_64: 2090974714
+      White_Werewolf_Spritelist_65: 226372205
+      White_Werewolf_Spritelist_66: -1060754401
+      White_Werewolf_Spritelist_67: -1614318346
+      White_Werewolf_Spritelist_68: -2010025688
+      White_Werewolf_Spritelist_69: -1672592902
+      White_Werewolf_Spritelist_7: 2130800730
+      White_Werewolf_Spritelist_70: 2096445122
+      White_Werewolf_Spritelist_71: 149689412
+      White_Werewolf_Spritelist_72: 185823952
+      White_Werewolf_Spritelist_73: 1099865419
+      White_Werewolf_Spritelist_74: 1476005402
+      White_Werewolf_Spritelist_8: -1007964051
+      White_Werewolf_Spritelist_9: -388744330
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
