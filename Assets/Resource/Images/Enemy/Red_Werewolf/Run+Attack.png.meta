@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -117,8 +117,8 @@ TextureImporter:
         y: 0
         width: 93
         height: 73
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39041096}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -138,8 +138,8 @@ TextureImporter:
         y: 0
         width: 90
         height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41304347}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -159,8 +159,8 @@ TextureImporter:
         y: 0
         width: 106
         height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5277778}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -180,8 +180,8 @@ TextureImporter:
         y: 1
         width: 114
         height: 78
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3653846}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -201,8 +201,8 @@ TextureImporter:
         y: 1
         width: 122
         height: 79
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3607595}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -220,10 +220,10 @@ TextureImporter:
         serializedVersion: 2
         x: 646
         y: 2
-        width: 109
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 116
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46721312}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -239,12 +239,12 @@ TextureImporter:
       name: Run+Attack_6
       rect:
         serializedVersion: 2
-        x: 753
-        y: 19
-        width: 4
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 779
+        y: 0
+        width: 99
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5480769}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -252,48 +252,6 @@ TextureImporter:
       bones: []
       spriteID: 3b97d52abd1c8094690b1393e5eaaeeb
       internalID: 193497244
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Run+Attack_7
-      rect:
-        serializedVersion: 2
-        x: 753
-        y: 13
-        width: 9
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b49e22e6c1f28384e9218af781ce66ef
-      internalID: 1883219853
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Run+Attack_8
-      rect:
-        serializedVersion: 2
-        x: 779
-        y: 0
-        width: 99
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d1456abe3bcca4e428477f3305f64e2d
-      internalID: -1372321264
       vertices: []
       indices: 
       edges: []
@@ -316,8 +274,6 @@ TextureImporter:
       Run+Attack_4: 1639368912
       Run+Attack_5: 1093807808
       Run+Attack_6: 193497244
-      Run+Attack_7: 1883219853
-      Run+Attack_8: -1372321264
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
